@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine 3.1
 MAINTAINER Feng Honglin <hfeng@tutum.co>
 
 ENV DOCKER_ROOT_DIR /var/lib/docker/
